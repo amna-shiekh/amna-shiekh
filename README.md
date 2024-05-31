@@ -15,11 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 ![icons8-python-48](https://user-images.githubusercontent.com/114314363/204038411-d86ec037-832d-4d9b-a614-a1a460c6d1a2.png)
 ![icons8-tensorflow-48](https://img.icons8.com/color/48/null/tensorflow.png)
-![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png)
-![Scikit-Learn](https://img.icons8.com/color/48/000000/scikit-learn.png)
-![Keras](https://img.icons8.com/color/48/000000/keras.png)
-![NLP](https://img.icons8.com/color/48/000000/natural-language-processing.png)
-![Computer Vision](https://img.icons8.com/color/48/000000/computer-vision.png)
 ![Statistics](https://img.icons8.com/color/48/000000/statistics.png)
 
 
