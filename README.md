@@ -15,12 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ![icons8-python-48](https://user-images.githubusercontent.com/114314363/204038411-d86ec037-832d-4d9b-a614-a1a460c6d1a2.png)
 ![icons8-tensorflow-48](https://img.icons8.com/color/48/null/tensorflow.png)
-![icons8-pytorch-48](https://img.icons8.com/color/48/null/pytorch.png)
-![icons8-scikit-learn-48](https://img.icons8.com/color/48/null/scikit-learn.png)
-![icons8-keras-48](https://img.icons8.com/color/48/null/keras.png)
-![icons8-natural-language-processing-48](https://img.icons8.com/color/48/null/natural-language-processing.png)
-![icons8-computer-vision-48](https://img.icons8.com/color/48/null/computer-vision.png)
-![icons8-statistics-48](https://img.icons8.com/color/48/null/statistics.png)
+
 
 ## My Professional Sites to Contact / Connect / Follow me 📫 :
 ### To see Further Projects And Career Stats Information Visit My Professional Sites
